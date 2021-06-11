@@ -282,15 +282,21 @@ table {
     background: url('../img/res02.png') no-repeat;
     background-size: cover;
 }
+
 #Cocteles{
     background-color: #1A1626;
       display: relative;
 }
 
+
 #Cocteles img{
     width: 100%;
 }
-
+#Cocteles h4{
+    color:  white;
+    font-family: 'Satisfy', sans-serif;
+    font-size: 30px;
+}
 
 #Desayuno{
       background-color: #292325;
@@ -364,9 +370,10 @@ table {
 .menu-restaurant .menu-title {
     float: left;
     font-family: Montserrat,arial;
+    font-weight: 750;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FFB03B;
+    color: #C87D0E;
 }
 .menu-restaurant .menu-line {
     position: absolute;
