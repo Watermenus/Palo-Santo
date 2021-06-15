@@ -407,7 +407,7 @@ table {
 .gallery-trigger ul li {
     display: inline-block;
     color: #fff;
-    text-transform: capitalize;
+   
     letter-spacing: 1px;
     margin-bottom: 40px;
 }
